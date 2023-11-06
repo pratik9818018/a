@@ -15,7 +15,7 @@
             <a href="#"> privecy policy</a>   |
         </nav>
     </heder>
-<body style=" background-color: rgb(107, 47, 226)">
+<body style=" background-color:yellow">
     <div>
         <h1 style="text-align: center; color: blue ;font-family: times new roman; font-size: 50px; align-items: center;"> about tumbewa </h1>
         
@@ -34,9 +34,9 @@
     <p style=" text-align: center;"> </p>
     <p>  </p>
     <h2 style=" color: brown; symbols: inherit;"> तुम्वेवाका केहि उत्पादनहरु  :- </h2>
-    <p style="font-size: 40px; color: rgb(91, 20, 223)"> 1. orange : <a href="#link"> link</a> </p>
-    <p style="font-size: 40px; color: rgb(91, 20, 223)"> 2. avocardo :<a href="http://www.pratik.com">  http://www.pratikl.com </a> </p> 
-    <p style="font-size: 40px; color: rgb(91, 20, 223)"> 3. lemon : <a href="#link" title="i am genious">link </a> </p>
+    <p style="font-size: 20px; color: rgb(91, 20, 223)"> 1. orange : <a href="https://en.wikipedia.org/wiki/orange"> link</a> </p>
+    <p style="font-size: 20px; color: rgb(91, 20, 223)"> 2. avocardo :<a href="https://en.wikipedia.org/wiki/ avocado"> link </a> </p> 
+    <p style="font-size: 20px; color: rgb(91, 20, 223)"> 3. lemon : <a href="https://en.wikipedia.org/wiki/lemon"> link </a> </p>
     <img src="image/tumbewa.jpg;" style="float: center" width="300px" height="300px"></img>
     <h3 style=" font-size: 30px; color: brown "> # cash crops </h3>
         <P style="font-size: 20px;"> cash crops are those crops which is manly cultivatoin for a cash gaining.
